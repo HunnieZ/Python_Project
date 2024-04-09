@@ -1,3 +1,4 @@
+Not full stack
 Dislaimer-**The following is a fictional project including any names**
 
 I was asked to develop a command line Python application for 'Film Flix' to manage their film database.
